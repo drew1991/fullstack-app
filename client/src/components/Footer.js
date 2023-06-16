@@ -41,14 +41,14 @@ const Footer = () => {
               <h4 className="text-white mb-4">Contact Us</h4>
               <div>
                 <address className="text-white fs-6">
-                  4 Balmy Street, <br /> San Francisco, CA, United States <br />
-                  PinCode: 94110 <br />
+                  kiambu road <br />nairobi, kenya <br />
+               
                 </address>
                 <a
-                  href="tel: +91 4123682421"
+                  href="tel: +254703435553"
                   className="mt-3 d-block mb-1 text-white"
                 >
-                  +91 4123682421
+                  +254703435553
                 </a>
                 <a
                   href="mailto:dev@gmail.com"
@@ -117,7 +117,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-12">
               <p className="text-center mb-0 text-white">
-                &copy; {new Date().getFullYear()}, Powered by Developers
+                &copy; {new Date().getFullYear()}, Created by Andrew
                 {""}
               </p>
             </div>

@@ -43,7 +43,7 @@ const Checkout = () => {
                 </ol>
               </nav>
               <h4 className="title total">Contact Information</h4>
-              <p className="user-details total">John Brown (john@gmail.com)</p>
+              <p className="user-details total">Andrew Onyancha (mr.onyanchaandrew@gmail.com)</p>
               <h4 className="mb-3">Shipping Address</h4>
               <form
                 action=""
@@ -95,7 +95,7 @@ const Checkout = () => {
                   <select name="" className="form-control form-select" id="">
                     <option value="" selected disabled>
                       {" "}
-                      Select State
+                      Select State/Province
                     </option>
                   </select>
                 </div>

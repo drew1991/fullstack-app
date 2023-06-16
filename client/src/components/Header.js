@@ -16,8 +16,8 @@ const Header = () => {
             <div className="col-6">
               <p className="text-end text-white mb-0">
                 Hotline:{" "}
-                <a className="text-white" href="tel:+91 8264954234">
-                  +91 8264954234
+                <a className="text-white" href="tel:+254703435553">
+                +254703435553
                 </a>
               </p>
             </div>
@@ -29,8 +29,8 @@ const Header = () => {
           <div className="row align-itens-center">
             <div className="col-2">
               <h2>
-                <Link className="text-white" style={{ fontSize: "30px" }}>
-                  E-commerce
+                <Link className="text-white" style={{ fontSize: "40px" }}>
+                  My-Shop
                 </Link>
               </h2>
             </div>

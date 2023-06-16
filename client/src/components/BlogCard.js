@@ -8,8 +8,7 @@ const BlogCard = () => {
         <img src="/images/blog-1.jpg" className="img-fluid w-10" alt="blog" />
       </div>
       <div className="blog-content">
-        <p className="date">25 May 2023</p>
-        <h5 className="title">A beautiful sunday morning renaissance</h5>
+        <h5 className="title">What I know</h5>
         <p className="desc">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, non
           laboriosam ea corporis numquam magni beatae, velit repellat dicta quis
